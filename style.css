@@ -1,1 +1,4 @@
-body {background-color: whitesmoke; }
+<!-- Codes by HTMLcodes.ws -->
+<p style="background-color:WhiteSmoke">The color of this paragraph is: <b>WhiteSmoke</b>.</p>
+<p>The background color of this text is inherited from its containing block, but <span style="background-color:WhiteSmoke">the background color of this 'span' tag has been changed to <b>WhiteSmoke</b></span>. </p>
+<div style="background-color:WhiteSmoke;width:150px;">The background color of this 'div' tag is <b>WhiteSmoke</b>. </div>
